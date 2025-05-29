@@ -1,4 +1,4 @@
-![Portfolio Banner](assets/portfolio-banner.png)
+![Portfolio Banner](assets/assets/.gitkeep)
 <p align="center">
-  <img src="assets/portfolio-banner.png" width="100%" alt="Portfolio Banner">
+  <img src="assets/assets/.gitkeep" width="100%" alt="Portfolio Banner">
 </p>
